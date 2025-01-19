@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secure Flask Microservice
 
 ---
@@ -539,3 +540,7 @@ Let's integrate Nginx with our `Secure Flask Microservice` app to create a more 
 ---
 ### CONCLUSION!!!
 Through this comprehensive solution, we have addressed the key challenges of modern web application development, by prioritizing security, scalability, and maintainability. The Secure and Scalable Flask Microservice project offers a robust and adaptable foundation for building secure, high-performing web services that can keep pace with the ever-evolving digital landscape.
+=======
+# Secure_Flask_Microservice
+A secured Flask service.
+>>>>>>> 01886f1f31c3a9e3536fb907cf62fc526f2784d2
